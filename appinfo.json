@@ -1,0 +1,97 @@
+{
+    "appKeys": {
+        "KEY_COLOR_APEX": 160,
+        "KEY_COLOR_BACKGROUND": 100,
+        "KEY_COLOR_FACE": 110,
+        "KEY_COLOR_OUTLINE": 140,
+        "KEY_COLOR_RISESET": 170,
+        "KEY_COLOR_SWEEP": 130,
+        "KEY_COLOR_TEXT": 119,
+        "KEY_COLOR_TEXT_ALT": 120,
+        "KEY_COLOR_TICKS": 150,
+        "KEY_CONDITIONS": 1,
+        "KEY_CONDITION_CODE": 10,
+        "KEY_NOON_LOW": 330,
+        "KEY_SHOW_BATTERY": 312,
+        "KEY_SHOW_HOUR_ARROW": 310,
+        "KEY_SHOW_WEATHER": 308,
+        "KEY_SUNRISE": 3,
+        "KEY_SUNSET": 4,
+        "KEY_TEMPERATURE": 11,
+        "KEY_TEMP_FORMAT": 300,
+        "KEY_TEMP_MAX": 2
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "brihogan@gmail.com",
+    "enableMultiJS": false,
+    "longName": "2460",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/weather-white-wind.png",
+                "name": "WEATHER_WHITE_WIND",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-unknown.png",
+                "name": "WEATHER_WHITE_UNKNOWN",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-thunder.png",
+                "name": "WEATHER_WHITE_THUNDER",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-snow.png",
+                "name": "WEATHER_WHITE_SNOW",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-rain.png",
+                "name": "WEATHER_WHITE_RAIN",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-extreme.png",
+                "name": "WEATHER_WHITE_EXTREME",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-drizzle.png",
+                "name": "WEATHER_WHITE_DRIZZLE",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-atmos.png",
+                "name": "WEATHER_WHITE_ATMOS",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-sunny.png",
+                "name": "WEATHER_WHITE_SUNNY",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/weather-white-cloudy.png",
+                "name": "WEATHER_WHITE_CLOUDY",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "2460",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "611f9d6c-ab23-40c4-8713-79b03668ca35",
+    "versionLabel": "0.94",
+    "watchapp": {
+        "watchface": true
+    }
+}
